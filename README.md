@@ -1,4 +1,4 @@
-*PSYCHOTHERAPY-PROJECT*
+*PSYCHOTHERAPY PROJECT*
 
 Psychotherapy’s Current State
 

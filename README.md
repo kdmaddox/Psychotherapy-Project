@@ -4,10 +4,10 @@ Psychotherapy’s Current State
 
 •	There is no systematic means of tracking VA psychotherapy services or Veteran clinical responses
 •	Understanding, documenting, and continually improving the quality of VA  psychotherapy services depends on routine collection of           minimally necessary information to link:
-•	The Veteran’s mental health conditions and problems that are the focus of psychotherapy sessions,
-•	The psychotherapy services provided, and
-•	Veteran reported outcomes
-•	Collecting this essential information provides the basis for a robust quality management system for quality assurance and quality         improvement 
+		•		The Veteran’s mental health conditions and problems that are the focus of psychotherapy sessions,
+		•		The psychotherapy services provided, and
+		•		Veteran reported outcomes
+		•		Collecting this essential information provides the basis for a robust quality management system for quality assurance and quality         improvement 
 
 Psychotherapy Measurement Feedback System  
 
